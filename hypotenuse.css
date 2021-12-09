@@ -1,0 +1,71 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+}
+.topnav{
+    background-color: #000000;
+    font-size: 30px;
+    border-radius: 1rem;
+    color:white;
+    padding: 0.25rem;
+}
+.topnav div{
+    text-align: left;
+}
+.list{
+    list-style: none;
+    text-align: right;
+}
+.list li{ 
+    display: inline;
+    padding: 1rem;    
+}
+.list li a{
+text-decoration: none;
+color: white;
+}
+
+
+h1{
+    color:#0e0d0d;
+}
+label{
+    font-size: 30px;
+    font-weight: bold;
+    margin: auto;
+    padding: 1rem;
+}
+#input1{
+    display: block;
+    margin: auto;
+    outline: #0f0f0f;
+    border: 3px solid #030303;
+    border-radius: 1rem;
+    font-size: large;
+    margin: 1rem auto 1rem auto;
+    padding: 0.5rem;
+}
+#input2{
+    display: block;
+    margin: auto;
+    outline: #111110;
+    border: 3px solid #0c0c0b;
+    border-radius: 1rem;
+    font-size: large;
+    margin: 1rem auto 1rem auto;
+    padding: 0.5rem;
+}
+#hypotenuse-btn{
+    padding: 0.5rem;
+    font-size: 25px;
+    border: #0f0f0f;
+    background-color: #161616;
+    color: white;
+    border-radius: 1rem;
+}
+#output{
+    padding: 2rem;
+    font-size: 30px;
+    font-weight: 600;
+    color: #111110;
+}

@@ -1,0 +1,49 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+}
+.topnav{
+    background-color: #050505;
+    font-size: 30px;
+    border-radius: 1rem;
+    color:white;
+    padding:0.25rem;
+}
+.topnav div{
+    text-align: left;
+}
+.list{
+    list-style: none;
+    text-align: right;
+}
+.list li{ 
+    display: inline;
+    padding: 1rem;    
+}
+.list li a{
+text-decoration: none;
+color: white;
+}
+
+
+h1{
+    color:#080808;
+}
+.quiz-container{
+    padding: 1rem;
+    font-size: 30px;
+}
+#submit{
+    padding: 0.5rem;
+    font-size: 25px;
+    border: #030303;
+    background-color: #000000;
+    color: white;
+    border-radius: 1rem;
+}
+#output{
+    padding: 2rem;
+    font-size: 30px;
+    font-weight: 600;
+    color: #000000;
+}
